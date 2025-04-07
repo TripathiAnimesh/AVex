@@ -97,7 +97,7 @@ This is a **work-in-progress**. The goal is ambitious: a lifelong digital memory
 
 ##  Author
 
-*Animesh* – Student, builder, and explorer of machines with feelings.
+**Animesh** – Student, builder, and explorer of machines with feelings.
 
 
 
