@@ -128,7 +128,7 @@ This is an early-stage personal memory architecture. It is not yet production-re
 
 ## 👤 Author
 
-**Animesh** – Student, builder, and explorer of machines with feelings.
+**Animesh** .  — Computer Science undergrad, Privacy advocate , and passionate about building human-centric, ethical AI systems.
 
 > Feel free to star 🌟 the repo if you like the idea. Contributions and suggestions welcome!
 
